@@ -1,0 +1,22 @@
+SP 53/2019
+CP2403 Information Processing and Visualisation
+CP3402 Content Management Systems
+CP3404 Information Security
+CP3406 Mobile Computing
+
+SP 51/2020
+CP2408 Design Thinking and Creative IT Industries   BBBBBBBBBBB
+CP3401 e-Strategic Management    AAAAAAAAAAAA
+CP3403 Data Mining      BBBBBBBBBBB
+CP2406 Programming III	AAAAAAAAAAAAAAAAAAAAA
+
+SP 52/2020
+CP3405 Design Thinking and Project Management
+CP3102 Multi-Disciplinary Project
+CP3407 Advanced Software Engineering 
+CP1407 Introductory Machine Learning and Data Science 
+
+
+
+
+
