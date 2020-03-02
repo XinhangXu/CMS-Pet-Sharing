@@ -32,5 +32,10 @@ Joomla site: ARK Editor - - Joomla site: ARK Editor ARK Editor is a useful Jooml
 
 
 (3) Reflection and Insights
+
+
 In terms of what I learned from finishing this assignment, I knew more of WordPress and Joomla, especially WordPress. By finishing assignment using this CMS, I search a large amount of tutorials of WordPress. How to install it, how to build sites by it, how to migrate from localhost to live site. WordPress is really a user-friendly instrument to build sites. With regards to Joomla, personally, it is a little bit worse than WordPress. The operate interface is not as clear as in WordPress. And WordPress is more convenient than Joomla, because there are many useful plugins and themes could be downloaded directly in WordPress. However, users have to search online for Joomla extensions, then install into Joomla. And most of Joomla templates are not free. In case of free temples, there are a lot elements supposed to be built by users. Finally, I also learned how to manage live site by using siteground. There are some problems when using siteground. I created subdomain for this assignment, at first it shew 404 after creating subdomain which made me so sad. Then I searched online to solve this problem. I learned a lot. In conclusion, both of Joomla and WordPress are welcomed CMSs, however, in my point of view, WordPress is better.
+
+
+![cover](https://github.com/XinhangXu/CMS-Pet-Sharing/blob/master/Introduce_files/1-01.JPG)
 
