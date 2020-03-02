@@ -16,7 +16,7 @@ The two sites should have the same content and structure but do not need to be i
 (1) Goals
 
 
-This website is supposed to be a platform for whom would like to rent pets. Sharing pets is a setup bussiness built by Xinhang Xu (13757132). On the website, it will introduce the function of sharing pets platform briefly. Our goal is introducing and providing rental pets service. Users can rent pets for a short period by searching relevant pets information on our platform. The website is consisted of three main parts which are abstract introduction, rental pets and pets care respectively. The pages built by WordPress and Joomla, both of them include introduction page, rental pets information page, pet care service page and contact page.
+This website is supposed to be a platform for whom would like to rent pets. Sharing pets is a setup bussiness. On the website, it will introduce the function of sharing pets platform briefly. Our goal is introducing and providing rental pets service. Users can rent pets for a short period by searching relevant pets information on our platform. The website is consisted of three main parts which are abstract introduction, rental pets and pets care respectively. The pages built by WordPress and Joomla, both of them include introduction page, rental pets information page, pet care service page and contact page.
 
 
 (2) Plugins
